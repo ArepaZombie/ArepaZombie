@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArepaZombie
-- 👀 I’m interested in learning and working in game design, software development and web design.
+- 👀 I’m interested in learning and working in game design, software development and data science.
 - 🌱 I’m currently learning to code in Java. Besides I'm also learning how to use React and other technologies...
 - 📫 Can contact me with jorgetorresmora99@gmail.com
 
